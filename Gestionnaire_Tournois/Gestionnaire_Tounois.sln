@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForm", "WindowsFormsApp1\WindowsForm.csproj", "{6DA25E4F-A599-474D-8E8F-9F888C57FB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTournois", "LibTournois\LibTournois.csproj", "{078F0261-F4B1-48AB-B2EA-280FDD22B521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA25E4F-A599-474D-8E8F-9F888C57FB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA25E4F-A599-474D-8E8F-9F888C57FB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA25E4F-A599-474D-8E8F-9F888C57FB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA25E4F-A599-474D-8E8F-9F888C57FB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078F0261-F4B1-48AB-B2EA-280FDD22B521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078F0261-F4B1-48AB-B2EA-280FDD22B521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078F0261-F4B1-48AB-B2EA-280FDD22B521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078F0261-F4B1-48AB-B2EA-280FDD22B521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7AC3FD-A674-4A09-95EE-0C14BB98973D}
+	EndGlobalSection
+EndGlobal
